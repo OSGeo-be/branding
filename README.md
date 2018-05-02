@@ -1,6 +1,9 @@
-# OSGeo-be banner
+# OSGeo-be branding materials
 
-To generate `banner.svg`:
+## Banner
 
-- get the large background png (currently `zeebrugge-3-crop-contrast.png`, 3370px x 8134px)
-- run `python embed.py banner.tpl.svg banner.svg`
+To generate banner.svg, run the following script (which embeds the fonts and image in the svg template)
+
+```shell
+python embed.py banner/banner.tpl.svg banner/banner.svg
+```
