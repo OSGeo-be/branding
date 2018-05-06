@@ -1,5 +1,13 @@
 # OSGeo-be branding materials
 
+## Logo
+
+Some logo propositions:
+
+<img src="logo/osgeo-be-1.svg" alt="low resultion banner" height="300" width="900"/>
+<img src="logo/osgeo-be-0.svg" alt="low resultion banner" height="300" width="900"/>
+<img src="logo/osgeo-be.svg" alt="low resultion banner" height="300" width="900"/>
+
 ## Banner
 
 <img src="banner/banner-low-res.jpg" alt="low resultion banner" height="500"/>
