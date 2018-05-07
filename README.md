@@ -2,11 +2,9 @@
 
 ## Logo
 
-Some logo propositions:
+Current logo proposition:
 
-<img src="logo/osgeo-be-1.svg" alt="low resultion banner" height="300" width="900"/>
-<img src="logo/osgeo-be-0.svg" alt="low resultion banner" height="300" width="900"/>
-<img src="logo/osgeo-be.svg" alt="low resultion banner" height="300" width="900"/>
+<img src="logo/osgeo-be.svg" alt="low resultion banner" height="200" width="900"/>
 
 ## Banner
 
