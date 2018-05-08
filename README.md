@@ -4,9 +4,11 @@
 
 Current logo propositions:
 
-<img src="logo/osgeo-be-small.svg" alt="low resultion banner" height="186" width="186"/><br><br>
+<img src="logo/osgeo-be-small.svg" height="186" width="186"/><br><br>
 
-<img src="logo/osgeo-be.svg" alt="low resultion banner" height="200" width="760"/>
+<img src="logo/osgeo-be.svg" height="200" width="760"/>
+
+See <a href="logo/comparison.md">comparison to other logos</a>.
 
 ## Banner
 
